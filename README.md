@@ -28,6 +28,9 @@ This requires SemEval2010 Task 8 dataset, available [here](https://github.com/sa
 Then you can use the notebook to run the framwork :
 
 
+<p align="center">
+  <img src="img/df.png?raw=true" />
+</p>
 
 ## 🎥 Repository Structure  <a name = "repo-struct"></a>
 
