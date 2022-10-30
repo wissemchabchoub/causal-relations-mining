@@ -1,0 +1,2 @@
+["decline", "decrease", "down", "slide", "drop", "low", "descent", "collapse", "remove", "slump", "downturn", "fall", "bear", 
+"depreciation", "cut", "weak", "hurt", "decay", "crash","condescend","dip", "decay", "worsen", "degenerate", "fade","descend", "decline", "depreciate", "slip", "stem"]

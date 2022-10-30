@@ -1,0 +1,6 @@
+train the model: python train_inferer.py --train 1 --num_classes 3 --num_epochs 11
+
+
+search causalities: python causality_script.py 
+
+
